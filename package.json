@@ -1,0 +1,24 @@
+{
+  "name": "raspberrygpio",
+  "version": "1.0.0",
+  "description": "Raspberry PI GPIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krister-Johansson/raspberrygpio.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "gpio"
+  ],
+  "author": "Krister Johansson <krister.johansson86@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krister-Johansson/raspberrygpio/issues"
+  },
+  "homepage": "https://github.com/Krister-Johansson/raspberrygpio#readme"
+}
